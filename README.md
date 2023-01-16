@@ -4,4 +4,8 @@ Testowe repozytorium
 
 # Drugi punkt
 
-# To do list
+Skonstruowanie stylu strony
+
+# Trzeci punkt
+
+todo - uzupełnić braki w danych
